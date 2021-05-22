@@ -9,7 +9,9 @@
 }
 
 .card{
-    margin: 15px
+    margin: 15px;
+    justify-content: center;
+    text-align:center;
 }
 
 header{
@@ -25,5 +27,38 @@ form{
 }
 
 .jumbotron{
-    padding:2em
+    padding:2em;
+    background-color:white;
+    border:1px solid #dadada;
+}
+
+.main{
+    display:inline;
+
+}
+
+#uvi{
+    padding: 2px 10px;
+    border-radius: 3px;
+}
+
+.card-body{
+    padding: .5rem;
+}
+
+.green{
+    background-color:#92de92;
+}
+
+.yellow{
+    background-color:#efdb7c;
+}
+
+.red{
+    background-color:#f37474;
+}
+
+.five-day{
+    color: white;
+    background-color: #46aaff;
 }
