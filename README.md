@@ -1,7 +1,6 @@
 # Weather Dashboard
 
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - This project was made to test and experiment with using API's and to get more familiar with Bootstrap.
 - This website can pull weather data for cities around the world from the openweathermap API
 
